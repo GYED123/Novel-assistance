@@ -1,0 +1,8 @@
+# 默认配置（可被命令行参数覆盖）
+provider: ${PROVIDER}
+model: ${MODEL}
+language: zh
+temperature_outline: 0.8
+temperature_scene: 0.5
+temperature_critique: 0.3
+max_output_tokens: 1200
